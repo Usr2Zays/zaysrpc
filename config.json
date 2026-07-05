@@ -1,10 +1,10 @@
 {
-    "clientid": "ID-HERE",
-    "largeimage": "NAME-OF-LARGE-IMAGE",
-    "largetext": "TEXT-OVER-THE-IMAGE",
-    "details": "SIMPLE-DETAILS",
-    "button1": "BUTTON-1-NAME",
-    "url1": "URL-REDIRECTS-ON-BUTTON-1",
-    "button2": "BUTTON-2-NAME",
-    "url2": "URL-REDIRECTS-ON-BUTTON-2"
+    "clientid": "1523413161179480145",
+    "largeimage": "86594413-e59a-46d9-9a56-e846805cdda1",
+    "largetext": "Joue a Site-34",
+    "details": "discord.gg/site34",
+    "button1": "Discord",
+    "url1": "https://discord.gg/site34",
+    "button2": "jouer",
+    "url2": "https://www.roblox.com/share?code=8b79452e643de945b06625b5e0b4a782&type=ExperienceDetails&stamp=1782909680095"
 }
